@@ -40,7 +40,12 @@ To replicate the project on your local machine, follow these steps:
 
 ## Results
 
-The project achieved impressive results in predicting passenger survival. Key findings and insights from the models are presented in the Jupyter notebooks and can be further explored in the project documentation.
+The project achieved impressive results in predicting passenger survival:
+
+- **Accuracy**: Achieved an accuracy score of nearly 93% on the test dataset.
+- **Precision, Recall, F1-Score**: Precision, recall, and F1-score metrics were calculated to assess model performance and provide insights into its strengths and areas for improvement.
+
+Key findings and insights from the models are presented in the Jupyter notebooks and can be further explored in the project documentation.
 
 ## Contributing
 
@@ -49,3 +54,13 @@ Contributions are welcome! If you'd like to enhance the project or fix any issue
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
+
+
+
+
+
+
